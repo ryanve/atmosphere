@@ -5,7 +5,7 @@
   color: midnightblue;
 }
 
-@media (prefers-contrast: more) 
+@media (prefers-contrast: more) {
   :root {
     background: powderblue;
     color: black;
